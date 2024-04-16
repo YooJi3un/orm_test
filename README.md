@@ -1,7 +1,7 @@
 # orm_test
 ### 2024 03 29
 📁 MELODYMARKET-DJANGO/
-├── 📁 account/
+┣ 📁 account/
 │ ├── 📁 migrations/
 │ ├── 📁 templates/
 │ │ └── 📁 accounts/
